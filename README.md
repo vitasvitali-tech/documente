@@ -1,36 +1,36 @@
 # Document Information
 
-**Name:**
+**Numele prenumele:**
 ```
-Andrusenco Vera
-```
-
-**Second Name:**
-```
-andrvhafj422
+Ciurca Dan
 ```
 
-**Date:**
+**Utilizator:**
+```
+ciurcadan3178
+```
+
+**Parola**
 ```
 !!!!CEPrer389
 ```
 
-**Reference:**
+**Email:**
 ```
-ioncurs6@gmail.com
-```
-
-**Issue Date:**
-```
-39-26-4534/1979
+sirbutatiana51@gmail.com
 ```
 
-**Type:*
+**Nr certificat:**
 ```
-25/02/2026
+13-25-12851/2756
 ```
 
-**Number:**
+**Data cetatenie:**
 ```
-067521119
+27/10/2025
+```
+
+**Nr de telefon:**
+```
+067675312
 ```
