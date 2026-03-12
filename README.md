@@ -2,12 +2,12 @@
 
 **Numele prenumele:**
 ```
-Ciurca Dan
+Merduh Andrei
 ```
 
 **Utilizator:**
 ```
-ciurcadan3178
+merduhandr
 ```
 
 **Parola**
@@ -17,17 +17,17 @@ ciurcadan3178
 
 **Email:**
 ```
-sirbutatiana51@gmail.com
+chircuvalintina@gmail.com
 ```
 
 **Nr certificat:**
 ```
-13-25-12851/2756
+120-20-3732/1039
 ```
 
 **Data cetatenie:**
 ```
-27/10/2025
+26/11/2020
 ```
 
 **Nr de telefon:**
