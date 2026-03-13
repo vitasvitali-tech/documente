@@ -17,7 +17,7 @@ merduhandr
 
 **Email:**
 ```
-chircuvalintina@gmail.com
+chicuvalintina@gmail.com
 ```
 
 **Nr certificat:**
