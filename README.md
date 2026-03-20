@@ -17,7 +17,7 @@ merduhandr
 
 **Email:**
 ```
-chicuvalintina@gmail.com
+vitasvitali@outlook.com
 ```
 
 **Nr certificat:**
