@@ -17,7 +17,7 @@ merduhandr
 
 **Email:**
 ```
-vitasvitali@outlook.com
+secrieruvit@outlook.com
 ```
 
 **Nr certificat:**
