@@ -17,7 +17,7 @@ rususeghei123456
 
 **Email:**
 ```
-poghircanae@outlook.com
+poghircana@outlook.com
 ```
 
 **Nr certificat:**
