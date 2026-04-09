@@ -2,12 +2,12 @@
 
 **Numele prenumele:**
 ```
-Șiscanu (Poghirca) Ana
+Rusu Serghei
 ```
 
 **Utilizator:**
 ```
-poghircasiscanuana
+rususeghei123456
 ```
 
 **Parola**
@@ -17,20 +17,20 @@ poghircasiscanuana
 
 **Email:**
 ```
-turcvitalie@outlook.com
+poghircanae@outlook.com
 ```
 
 **Nr certificat:**
 ```
-39-26-4217/1822
+167350
 ```
 
 **Data cetatenie:**
 ```
-23/02/2026
+29/07/2025
 ```
 
 **Nr de telefon:**
 ```
-063675312
+0763675312
 ```
