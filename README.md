@@ -2,12 +2,12 @@
 
 **Numele prenumele:**
 ```
-Rusu Serghei
+Lefter Vlad
 ```
 
 **Utilizator:**
 ```
-rususeghei123456
+leftervlad1616
 ```
 
 **Parola**
@@ -17,17 +17,17 @@ rususeghei123456
 
 **Email:**
 ```
-poghircana@outlook.com
+lefteraura@outlook.com
 ```
 
 **Nr certificat:**
 ```
-167350
+171990
 ```
 
 **Data cetatenie:**
 ```
-29/07/2025
+08/04/2026
 ```
 
 **Nr de telefon:**
