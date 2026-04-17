@@ -2,12 +2,12 @@
 
 **Numele prenumele:**
 ```
-Lefter Vlad
+Braguta Ina
 ```
 
 **Utilizator:**
 ```
-leftervlad1616
+brleftervlad1616
 ```
 
 **Parola**
@@ -22,15 +22,15 @@ lefteraura@outlook.com
 
 **Nr certificat:**
 ```
-171990
+13-25-12631/2614
 ```
 
 **Data cetatenie:**
 ```
-08/04/2026
+23/10/2025
 ```
 
 **Nr de telefon:**
 ```
-0763675312
+0755217999
 ```
