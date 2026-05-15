@@ -27,7 +27,7 @@ ciurcaanna@outlook.com
 
 **Data cetatenie:**
 ```
-24/06/2026
+24/06/2025
 ```
 
 **Nr de telefon:**
