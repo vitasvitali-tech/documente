@@ -2,12 +2,12 @@
 
 **Numele prenumele:**
 ```
-Ciurca  Ana
+Stoica Andrei
 ```
 
 **Utilizator:**
 ```
-ciurcaanna123
+stoica andtrei123
 ```
 
 **Parola**
@@ -17,17 +17,17 @@ ciurcaanna123
 
 **Email:**
 ```
-ciurcaanna@outlook.com
+zmeupetru@outlook.com
 ```
 
 **Nr certificat:**
 ```
-128-26-4121/4643
+13-19-18909/17948
 ```
 
 **Data cetatenie:**
 ```
-24/06/2025
+20/12/2019
 ```
 
 **Nr de telefon:**
