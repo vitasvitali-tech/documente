@@ -2,12 +2,12 @@
 
 **Numele prenumele:**
 ```
-Iftodi Mihaela
+Buruiana Diana
 ```
 
 **Utilizator:**
 ```
-iftodimihaela999
+buruianadiana999
 ```
 
 **Parola**
@@ -17,17 +17,17 @@ iftodimihaela999
 
 **Email:**
 ```
-pbalanesti@yahoo.com
+buruianadiana1outlook.com
 ```
 
 **Nr certificat:**
 ```
-128-25-147/117
+172638
 ```
 
 **Data cetatenie:**
 ```
-14/01/2025
+13/05/2026
 ```
 
 **Nr de telefon:**
