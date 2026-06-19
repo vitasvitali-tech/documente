@@ -2,12 +2,12 @@
 
 **Numele prenumele:**
 ```
-Buruiana Diana
+Bocsan Lidia
 ```
 
 **Utilizator:**
 ```
-buruianadiana999
+lidiabocsan123456
 ```
 
 **Parola**
@@ -17,17 +17,17 @@ buruianadiana999
 
 **Email:**
 ```
-buruianadiana1outlook.com
+vitasvitali1@outlook.com
 ```
 
 **Nr certificat:**
 ```
-172638
+39-26-10236/4288/05.05.2026
 ```
 
 **Data cetatenie:**
 ```
-13/05/2026
+05/05/2026
 ```
 
 **Nr de telefon:**
