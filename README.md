@@ -2,12 +2,12 @@
 
 **Numele prenumele:**
 ```
-Coval Dumitru
+Birdan Dorin
 ```
 
 **Utilizator:**
 ```
-covaldumitru369
+birdandori369
 ```
 
 **Parola**
@@ -17,17 +17,17 @@ covaldumitru369
 
 **Email:**
 ```
-covaldumitru369@outlook.com
+tucelion@outlook.com
 ```
 
 **Nr certificat:**
 ```
-13-25-11083/1585/24.09.2025
+30-26-6988/2649/
 ```
 
 **Data cetatenie:**
 ```
-24/09/2025
+08/07/2026
 ```
 
 **Nr de telefon:**
