@@ -32,5 +32,5 @@ urzicaionn@outlook.com
 
 **Nr de telefon:**
 ```
-0755227939
+83-24-1479/395/23.10.2024
 ```
