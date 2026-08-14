@@ -2,12 +2,12 @@
 
 **Numele prenumele:**
 ```
-Vetris Ion
+Urzica Ion
 ```
 
 **Utilizator:**
 ```
-vetrision369
+urzicaion369
 ```
 
 **Parola**
@@ -17,17 +17,17 @@ vetrision369
 
 **Email:**
 ```
-rususergheii@outlook.com
+urzicaionn@outlook.com
 ```
 
 **Nr certificat:**
 ```
-83-24-1479/395/23.10.2024
+173752/06.08.2026
 ```
 
 **Data cetatenie:**
 ```
-23/10/2024
+06/08/2026
 ```
 
 **Nr de telefon:**
