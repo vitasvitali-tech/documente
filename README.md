@@ -2,12 +2,12 @@
 
 **Numele prenumele:**
 ```
-Urzica Ion
+Olar Olena
 ```
 
 **Utilizator:**
 ```
-urzicaion369
+olarolena369
 ```
 
 **Parola**
@@ -17,17 +17,17 @@ urzicaion369
 
 **Email:**
 ```
-urzicaionn@outlook.com
+cipcipion2@gmail.com
 ```
 
 **Nr certificat:**
 ```
-173752/06.08.2026
+174352/27.08.2026
 ```
 
 **Data cetatenie:**
 ```
-06/08/2026
+27/08/2026
 ```
 
 **Nr de telefon:**
