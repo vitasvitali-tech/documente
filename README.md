@@ -2,12 +2,12 @@
 
 **Numele prenumele:**
 ```
-Luncari Maria
+Bordian Iuri
 ```
 
 **Utilizator:**
 ```
-luncari369
+bordeian369
 ```
 
 **Parola**
@@ -17,17 +17,17 @@ luncari369
 
 **Email:**
 ```
-vitasvitali369@outlook.com
+bordianiurii@outlook.com
 ```
 
 **Nr certificat:**
 ```
-174825/29.09.2026
+39-26-6445/2750/18.03.2026
 ```
 
 **Data cetatenie:**
 ```
-29/09/2026
+18/03/2026
 ```
 
 **Nr de telefon:**
