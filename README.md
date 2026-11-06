@@ -7,7 +7,7 @@ Bordian Iuri
 
 **Utilizator:**
 ```
-bordeian369
+bordian369
 ```
 
 **Parola**
